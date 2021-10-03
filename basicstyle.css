@@ -1,0 +1,41 @@
+
+body {
+    color: aliceblue;
+    background-color: #D9CAB3;
+    background-image: url("https://www.transparenttextures.com/patterns/buried.png");
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#letterCrl>tr>td {
+    background-color: #F6F6F6;
+    color: #6D9886;
+    font-size: 0.6em;
+    font-weight: 900;
+    border-radius: 20px;
+    padding: 5px 7px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+#wordgraph {
+    font-size: 20px;
+}
+
+#searchWordList {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#myTitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large;
+    padding: 20px 0px;
+    color: white;
+    font-weight: bolder;
+}
